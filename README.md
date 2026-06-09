@@ -166,7 +166,8 @@ Real-Time-Weather-Analytics-Dashboard
 
 ## 🌦️ Real-Time Weather Analytics Dashboard
 
-![Weather Dashboard] (https://github.com/Pranavmehta13e/WeatherIQ-Insights-Dashboard/blob/d1ff60a9e11b69d1f1422fbd4b98f0a38bb9e474/Weather_Dashboard.png)
+![Weather Dashboard] 
+![Image Alt](https://github.com/Pranavmehta13e/WeatherIQ-Insights-Dashboard/blob/d1ff60a9e11b69d1f1422fbd4b98f0a38bb9e474/Weather_Dashboard.png)
 
 ---
 
