@@ -1,5 +1,4 @@
-# WeatherIQ-Insights-Dashboard
-# 🌦️ Real-Time Weather Analytics Dashboard
+#  🌦️ WeatherIQ-Insights-Dashboard
 
 <div align="center">
 
